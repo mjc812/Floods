@@ -3,7 +3,34 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - CameraHolder
+  - FPCamera
+  - FPWeaponHolder
+  - Item
+  - Inventory
+  - InventoryDisplay
+  - Amount
+  - HUD
+  - Slot
+  - SlotDisplay
+  - SlotAmount
+  - FoundationSnapPoint
+  - WallSnapPoint
+  - Foundation_SP
+  - Wall_SP
+  - Celing_SP
+  - ItemsContainer
+  - Cannibal
+  - Crosshair
+  - UI Canvas
+  - UICanvas
+  - RecoilHandler
+  - MainCameraRecoil
+  - Fire
+  - GenericMuzzleFlash
+  - GenericFlare
+  - FPWeaponSway
   layers:
   - Default
   - TransparentFX
@@ -11,8 +38,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - FP
+  - Structure
   - 
   - 
   - 
